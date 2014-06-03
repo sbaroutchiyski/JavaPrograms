@@ -1,0 +1,2 @@
+cd> \Path To directory\src\>"C:\Program Files (x86)\Java\jdk1.8.0_05\bin\javac.exe" SumTwoNumbers.java
+\Path To directory\src\>java SumTwoNumbers
